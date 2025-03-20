@@ -25,7 +25,7 @@ Excel – Data preprocessing & manipulation
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/hospitality-dashboard.git
+git clone https://github.com/AlshaKumari/hospitality-dashboard.git
 2️⃣ Open the respective files in Power BI, Tableau, SQL Server, or Excel
 3️⃣ Explore the interactive dashboards & insights
 
